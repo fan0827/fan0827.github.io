@@ -3,7 +3,7 @@
     "languages": [
       {
         "label": "一般啟動檔",
-        "value": "Java"
+        "value": "java"
       },      
       {
         "label": "插件啟動檔",
@@ -12,7 +12,7 @@
     ],
     "packages": [
       {
-        "language": "zh_tw",
+        "language": "paper",
         "description": "[Purpur] Minecraft 1.21.3 Purpur",
         "title": "Minecraft 1.21.3",
         "runtime": "Java 21+",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "language": "en_us",
+        "language": "java",
         "description": "[Purpur] Minecraft 1.21.1 Purpur",
         "title": "Minecraft 1.21.1",
         "runtime": "Java 21+",
